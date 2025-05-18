@@ -1,0 +1,5004 @@
+
+
+Streaming output truncated to the last 5000 lines.
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=692)
+[Timing] State copy:           1.452s
+[Timing] Incremental update:    0.248s
+[Timing] Total load now = 7145676.490211
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (67, 106) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1476)
+[Timing] State copy:           1.577s
+[Timing] Incremental update:    0.620s
+[Timing] Total load now = 7138686.356200
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 319) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=596)
+[Timing] State copy:           1.159s
+[Timing] Incremental update:    0.210s
+[Timing] Total load now = 7154676.504137
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (73, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.004s  (#=20)
+[Timing] State copy:           1.582s
+[Timing] Incremental update:    0.026s
+[Timing] Total load now = 7184356.907678
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (67, 363) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1094)
+[Timing] State copy:           1.146s
+[Timing] Incremental update:    0.447s
+[Timing] Total load now = 7149081.915123
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (41, 97) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=766)
+[Timing] State copy:           1.581s
+[Timing] Incremental update:    0.329s
+[Timing] Total load now = 7142895.387866
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 141) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=760)
+[Timing] State copy:           1.689s
+[Timing] Incremental update:    0.481s
+[Timing] Total load now = 7143508.813334
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 406) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=690)
+[Timing] State copy:           1.902s
+[Timing] Incremental update:    0.240s
+[Timing] Total load now = 7147024.234189
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (13, 67) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.003s
+[Timing] Affected pairs:       0.003s  (#=1092)
+[Timing] State copy:           1.144s
+[Timing] Incremental update:    0.452s
+[Timing] Total load now = 7149973.192388
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (43, 67) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1098)
+[Timing] State copy:           1.138s
+[Timing] Incremental update:    0.450s
+[Timing] Total load now = 7145449.165131
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (58, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=518)
+[Timing] State copy:           1.542s
+[Timing] Incremental update:    0.205s
+[Timing] Total load now = 7160865.192651
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (164, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.004s  (#=148)
+[Timing] State copy:           1.613s
+[Timing] Incremental update:    0.072s
+[Timing] Total load now = 7181684.278504
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (168, 246) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=804)
+[Timing] State copy:           1.170s
+[Timing] Incremental update:    0.330s
+[Timing] Total load now = 7158311.665860
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (1, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=546)
+[Timing] State copy:           2.228s
+[Timing] Incremental update:    0.393s
+[Timing] Total load now = 7157968.777854
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (73, 382) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.004s  (#=878)
+[Timing] State copy:           1.401s
+[Timing] Incremental update:    0.331s
+[Timing] Total load now = 7125962.572212
+[Update] New best edge = (73, 382) → load 7125962.572212
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (11, 47) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=942)
+[Timing] State copy:           1.120s
+[Timing] Incremental update:    0.357s
+[Timing] Total load now = 7143760.963827
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (73, 368) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=816)
+[Timing] State copy:           1.635s
+[Timing] Incremental update:    0.313s
+[Timing] Total load now = 7128395.345031
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (50, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=846)
+[Timing] State copy:           1.216s
+[Timing] Incremental update:    0.318s
+[Timing] Total load now = 7139402.922730
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (73, 216) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=398)
+[Timing] State copy:           1.607s
+[Timing] Incremental update:    0.178s
+[Timing] Total load now = 7161002.825739
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (73, 200) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=316)
+[Timing] State copy:           1.653s
+[Timing] Incremental update:    0.208s
+[Timing] Total load now = 7174667.435696
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (167, 183) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=130)
+[Timing] State copy:           1.667s
+[Timing] Incremental update:    0.066s
+[Timing] Total load now = 7182086.696712
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (96, 97) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=772)
+[Timing] State copy:           1.559s
+[Timing] Incremental update:    0.358s
+[Timing] Total load now = 7138118.279880
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (58, 73) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=710)
+[Timing] State copy:           1.580s
+[Timing] Incremental update:    0.333s
+[Timing] Total load now = 7140418.243876
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (100, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=544)
+[Timing] State copy:           1.187s
+[Timing] Incremental update:    0.218s
+[Timing] Total load now = 7154586.292765
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (24, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=580)
+[Timing] State copy:           1.610s
+[Timing] Incremental update:    0.231s
+[Timing] Total load now = 7151395.148572
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (11, 224) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=1146)
+[Timing] State copy:           1.171s
+[Timing] Incremental update:    0.440s
+[Timing] Total load now = 7135431.247403
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (43, 83) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=950)
+[Timing] State copy:           2.038s
+[Timing] Incremental update:    0.658s
+[Timing] Total load now = 7149335.301354
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 103) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=286)
+[Timing] State copy:           1.449s
+[Timing] Incremental update:    0.127s
+[Timing] Total load now = 7175275.131528
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (139, 286) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=736)
+[Timing] State copy:           1.622s
+[Timing] Incremental update:    0.286s
+[Timing] Total load now = 7141995.601379
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (17, 103) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=162)
+[Timing] State copy:           1.164s
+[Timing] Incremental update:    0.086s
+[Timing] Total load now = 7181893.488603
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (67, 369) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.009s  (#=1884)
+[Timing] State copy:           1.608s
+[Timing] Incremental update:    0.782s
+[Timing] Total load now = 7130926.738978
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (70, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=836)
+[Timing] State copy:           1.152s
+[Timing] Incremental update:    0.294s
+[Timing] Total load now = 7139836.242295
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (139, 425) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=948)
+[Timing] State copy:           1.150s
+[Timing] Incremental update:    0.343s
+[Timing] Total load now = 7134564.647511
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (73, 166) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.003s
+[Timing] Affected pairs:       0.003s  (#=818)
+[Timing] State copy:           2.136s
+[Timing] Incremental update:    0.573s
+[Timing] Total load now = 7131807.697538
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (97, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=442)
+[Timing] State copy:           1.865s
+[Timing] Incremental update:    0.176s
+[Timing] Total load now = 7167276.184256
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (73, 251) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=810)
+[Timing] State copy:           1.139s
+[Timing] Incremental update:    0.304s
+[Timing] Total load now = 7131204.009806
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (73, 106) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=758)
+[Timing] State copy:           1.616s
+[Timing] Incremental update:    0.301s
+[Timing] Total load now = 7132394.277992
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (11, 367) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1218)
+[Timing] State copy:           1.167s
+[Timing] Incremental update:    0.485s
+[Timing] Total load now = 7135390.729580
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (73, 304) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=914)
+[Timing] State copy:           1.608s
+[Timing] Incremental update:    0.355s
+[Timing] Total load now = 7120034.691919
+[Update] New best edge = (73, 304) → load 7120034.691919
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (139, 342) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=716)
+[Timing] State copy:           2.271s
+[Timing] Incremental update:    0.491s
+[Timing] Total load now = 7146844.330945
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 384) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=832)
+[Timing] State copy:           1.248s
+[Timing] Incremental update:    0.301s
+[Timing] Total load now = 7141363.483790
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (7, 73) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=352)
+[Timing] State copy:           1.191s
+[Timing] Incremental update:    0.159s
+[Timing] Total load now = 7176651.713206
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (67, 303) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=864)
+[Timing] State copy:           1.563s
+[Timing] Incremental update:    0.371s
+[Timing] Total load now = 7154755.716762
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (3, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=378)
+[Timing] State copy:           1.592s
+[Timing] Incremental update:    0.151s
+[Timing] Total load now = 7171278.464834
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (73, 397) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=794)
+[Timing] State copy:           1.212s
+[Timing] Incremental update:    0.326s
+[Timing] Total load now = 7132846.094515
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=126)
+[Timing] State copy:           1.737s
+[Timing] Incremental update:    0.086s
+[Timing] Total load now = 7179624.201335
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (73, 339) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=772)
+[Timing] State copy:           1.799s
+[Timing] Incremental update:    0.670s
+[Timing] Total load now = 7133057.615376
+[Timing] Edge removal:         0.001s
+[C–F] Best edge (73, 304) → new total load 7120034.691919 (search took 191.977s)
+
+--- Iteration 6 ---
+[A] Total stretch load = 7120034.691919
+    (took 0.000s)
+[B] Inverted weights    (took 0.000s)
+[Timing] Computed all‐pairs geodesic distances: 0.177s
+[Timing] Selected top 100 stretched pairs: 0.006s
+
+-- Testing edge (73, 103) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.004s
+[Timing] Affected pairs:       0.004s  (#=404)
+[Timing] State copy:           1.540s
+[Timing] Incremental update:    0.262s
+[Timing] Total load now = 7096684.972057
+[Update] New best edge = (73, 103) → load 7096684.972057
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (46, 73) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=742)
+[Timing] State copy:           1.412s
+[Timing] Incremental update:    0.368s
+[Timing] Total load now = 7088820.836000
+[Update] New best edge = (46, 73) → load 7088820.836000
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (47, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=616)
+[Timing] State copy:           1.421s
+[Timing] Incremental update:    0.428s
+[Timing] Total load now = 7085777.744479
+[Update] New best edge = (47, 139) → load 7085777.744479
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (17, 73) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=620)
+[Timing] State copy:           1.200s
+[Timing] Incremental update:    0.269s
+[Timing] Total load now = 7081610.564799
+[Update] New best edge = (17, 73) → load 7081610.564799
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (139, 367) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=696)
+[Timing] State copy:           1.183s
+[Timing] Incremental update:    0.288s
+[Timing] Total load now = 7078814.118308
+[Update] New best edge = (139, 367) → load 7078814.118308
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (139, 341) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=602)
+[Timing] State copy:           1.596s
+[Timing] Incremental update:    0.233s
+[Timing] Total load now = 7086494.727991
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (43, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=652)
+[Timing] State copy:           1.169s
+[Timing] Incremental update:    0.285s
+[Timing] Total load now = 7087002.651644
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (17, 34) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=786)
+[Timing] State copy:           2.488s
+[Timing] Incremental update:    0.432s
+[Timing] Total load now = 7084288.903698
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (106, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=702)
+[Timing] State copy:           1.185s
+[Timing] Incremental update:    0.253s
+[Timing] Total load now = 7079046.416869
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (73, 322) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.003s
+[Timing] Affected pairs:       0.005s  (#=2320)
+[Timing] State copy:           1.620s
+[Timing] Incremental update:    0.976s
+[Timing] Total load now = 7047792.235263
+[Update] New best edge = (73, 322) → load 7047792.235263
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (38, 73) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1718)
+[Timing] State copy:           1.165s
+[Timing] Incremental update:    0.712s
+[Timing] Total load now = 7065402.156980
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (114, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=330)
+[Timing] State copy:           1.567s
+[Timing] Incremental update:    0.143s
+[Timing] Total load now = 7103393.259645
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (115, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=650)
+[Timing] State copy:           2.131s
+[Timing] Incremental update:    0.438s
+[Timing] Total load now = 7082146.226838
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (67, 83) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=64)
+[Timing] State copy:           1.619s
+[Timing] Incremental update:    0.042s
+[Timing] Total load now = 7118239.207288
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (11, 67) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=112)
+[Timing] State copy:           1.657s
+[Timing] Incremental update:    0.063s
+[Timing] Total load now = 7117087.137820
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 363) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=584)
+[Timing] State copy:           1.224s
+[Timing] Incremental update:    0.259s
+[Timing] Total load now = 7086310.550954
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 212) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=446)
+[Timing] State copy:           1.888s
+[Timing] Incremental update:    0.214s
+[Timing] Total load now = 7093972.302566
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (67, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.005s  (#=302)
+[Timing] State copy:           1.181s
+[Timing] Incremental update:    0.119s
+[Timing] Total load now = 7111506.452008
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (14, 73) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=496)
+[Timing] State copy:           1.703s
+[Timing] Incremental update:    0.226s
+[Timing] Total load now = 7098309.772802
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (73, 223) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.003s
+[Timing] Affected pairs:       0.003s  (#=858)
+[Timing] State copy:           1.419s
+[Timing] Incremental update:    0.627s
+[Timing] Total load now = 7087614.426399
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 224) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.003s
+[Timing] Affected pairs:       0.003s  (#=668)
+[Timing] State copy:           2.135s
+[Timing] Incremental update:    0.269s
+[Timing] Total load now = 7081281.981098
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (73, 105) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=1474)
+[Timing] State copy:           1.180s
+[Timing] Incremental update:    0.641s
+[Timing] Total load now = 7075423.647615
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=88)
+[Timing] State copy:           1.212s
+[Timing] Incremental update:    0.060s
+[Timing] Total load now = 7117579.470128
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 402) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=668)
+[Timing] State copy:           1.661s
+[Timing] Incremental update:    0.254s
+[Timing] Total load now = 7081250.224939
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (139, 365) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=668)
+[Timing] State copy:           1.677s
+[Timing] Incremental update:    0.263s
+[Timing] Total load now = 7080582.602314
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (139, 244) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=666)
+[Timing] State copy:           1.214s
+[Timing] Incremental update:    0.288s
+[Timing] Total load now = 7083832.321737
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (11, 43) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=1058)
+[Timing] State copy:           2.199s
+[Timing] Incremental update:    0.735s
+[Timing] Total load now = 7075013.068759
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 97) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.004s  (#=816)
+[Timing] State copy:           1.298s
+[Timing] Incremental update:    0.345s
+[Timing] Total load now = 7080115.433361
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (119, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=512)
+[Timing] State copy:           1.684s
+[Timing] Incremental update:    0.215s
+[Timing] Total load now = 7092067.966447
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 212) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=518)
+[Timing] State copy:           1.147s
+[Timing] Incremental update:    0.212s
+[Timing] Total load now = 7102980.898608
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 303) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=560)
+[Timing] State copy:           1.676s
+[Timing] Incremental update:    0.218s
+[Timing] Total load now = 7088656.791173
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (73, 183) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.004s  (#=384)
+[Timing] State copy:           1.208s
+[Timing] Incremental update:    0.166s
+[Timing] Total load now = 7106361.698032
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 39) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=484)
+[Timing] State copy:           1.195s
+[Timing] Incremental update:    0.195s
+[Timing] Total load now = 7105177.178933
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 339) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.002s  (#=664)
+[Timing] State copy:           2.204s
+[Timing] Incremental update:    0.459s
+[Timing] Total load now = 7082226.023715
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=354)
+[Timing] State copy:           1.925s
+[Timing] Incremental update:    0.155s
+[Timing] Total load now = 7108244.847374
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (73, 80) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=976)
+[Timing] State copy:           1.193s
+[Timing] Incremental update:    0.435s
+[Timing] Total load now = 7094150.617644
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (73, 323) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=2054)
+[Timing] State copy:           1.659s
+[Timing] Incremental update:    0.886s
+[Timing] Total load now = 7063942.900558
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (73, 136) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=758)
+[Timing] State copy:           1.146s
+[Timing] Incremental update:    0.358s
+[Timing] Total load now = 7092453.192108
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (97, 103) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.002s  (#=694)
+[Timing] State copy:           1.671s
+[Timing] Incremental update:    0.322s
+[Timing] Total load now = 7095158.473680
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 164) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=566)
+[Timing] State copy:           1.409s
+[Timing] Incremental update:    0.406s
+[Timing] Total load now = 7101681.765570
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 253) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=660)
+[Timing] State copy:           2.264s
+[Timing] Incremental update:    0.258s
+[Timing] Total load now = 7083710.098236
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 343) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=852)
+[Timing] State copy:           1.232s
+[Timing] Incremental update:    0.318s
+[Timing] Total load now = 7073191.657504
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (139, 369) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=690)
+[Timing] State copy:           1.669s
+[Timing] Incremental update:    0.275s
+[Timing] Total load now = 7079847.125769
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (139, 191) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=572)
+[Timing] State copy:           1.213s
+[Timing] Incremental update:    0.220s
+[Timing] Total load now = 7088838.683643
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 152) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.004s  (#=840)
+[Timing] State copy:           1.214s
+[Timing] Incremental update:    0.328s
+[Timing] Total load now = 7071893.757707
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (139, 206) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=678)
+[Timing] State copy:           1.632s
+[Timing] Incremental update:    0.261s
+[Timing] Total load now = 7079587.852052
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (120, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.002s  (#=688)
+[Timing] State copy:           2.204s
+[Timing] Incremental update:    0.451s
+[Timing] Total load now = 7084150.384946
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (183, 212) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=462)
+[Timing] State copy:           1.536s
+[Timing] Incremental update:    0.216s
+[Timing] Total load now = 7104688.120904
+[Timing] Edge removal:         0.002s
+
+-- Testing edge (139, 251) --
+[Timing] Edge addition:        0.001s
+[Timing] SSSP from endpoints:  0.004s
+[Timing] Affected pairs:       0.006s  (#=698)
+[Timing] State copy:           1.620s
+[Timing] Incremental update:    0.286s
+[Timing] Total load now = 7080075.418402
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (67, 106) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=1472)
+[Timing] State copy:           1.196s
+[Timing] Incremental update:    0.601s
+[Timing] Total load now = 7073469.547298
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 319) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=598)
+[Timing] State copy:           1.598s
+[Timing] Incremental update:    0.219s
+[Timing] Total load now = 7089363.334374
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (73, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.004s  (#=496)
+[Timing] State copy:           1.145s
+[Timing] Incremental update:    0.207s
+[Timing] Total load now = 7086112.116906
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (67, 363) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=1096)
+[Timing] State copy:           1.623s
+[Timing] Incremental update:    0.472s
+[Timing] Total load now = 7083759.846830
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (41, 97) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.002s  (#=768)
+[Timing] State copy:           1.847s
+[Timing] Incremental update:    0.591s
+[Timing] Total load now = 7077525.620719
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 141) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=766)
+[Timing] State copy:           1.353s
+[Timing] Incremental update:    0.287s
+[Timing] Total load now = 7077774.284177
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (139, 406) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=696)
+[Timing] State copy:           1.611s
+[Timing] Incremental update:    0.259s
+[Timing] Total load now = 7081290.566416
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (13, 67) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1090)
+[Timing] State copy:           1.669s
+[Timing] Incremental update:    0.490s
+[Timing] Total load now = 7084803.484034
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (43, 67) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1096)
+[Timing] State copy:           1.142s
+[Timing] Incremental update:    0.470s
+[Timing] Total load now = 7080510.332535
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (58, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=514)
+[Timing] State copy:           1.604s
+[Timing] Incremental update:    0.217s
+[Timing] Total load now = 7095662.596128
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (164, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=458)
+[Timing] State copy:           1.177s
+[Timing] Incremental update:    0.292s
+[Timing] Total load now = 7096480.102311
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (168, 246) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.003s
+[Timing] Affected pairs:       0.003s  (#=804)
+[Timing] State copy:           2.507s
+[Timing] Incremental update:    0.322s
+[Timing] Total load now = 7093072.549451
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (1, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=542)
+[Timing] State copy:           1.156s
+[Timing] Incremental update:    0.224s
+[Timing] Total load now = 7092739.707617
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (11, 47) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.005s  (#=942)
+[Timing] State copy:           1.651s
+[Timing] Incremental update:    0.382s
+[Timing] Total load now = 7078503.813291
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (50, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=852)
+[Timing] State copy:           1.130s
+[Timing] Incremental update:    0.321s
+[Timing] Total load now = 7073662.972582
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (73, 200) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=1284)
+[Timing] State copy:           1.607s
+[Timing] Incremental update:    0.515s
+[Timing] Total load now = 7066458.663557
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (167, 183) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=130)
+[Timing] State copy:           1.137s
+[Timing] Incremental update:    0.068s
+[Timing] Total load now = 7116847.580304
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (96, 97) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=774)
+[Timing] State copy:           1.156s
+[Timing] Incremental update:    0.442s
+[Timing] Total load now = 7072743.702933
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (100, 168) --
+[Timing] Edge addition:        0.003s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=544)
+[Timing] State copy:           2.397s
+[Timing] Incremental update:    0.220s
+[Timing] Total load now = 7089347.176356
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (24, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.003s
+[Timing] Affected pairs:       0.003s  (#=586)
+[Timing] State copy:           1.622s
+[Timing] Incremental update:    0.239s
+[Timing] Total load now = 7085805.463673
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (11, 224) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1144)
+[Timing] State copy:           1.140s
+[Timing] Incremental update:    0.454s
+[Timing] Total load now = 7070093.717141
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (43, 83) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=948)
+[Timing] State copy:           1.588s
+[Timing] Incremental update:    0.376s
+[Timing] Total load now = 7084401.236406
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 103) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=286)
+[Timing] State copy:           1.191s
+[Timing] Incremental update:    0.141s
+[Timing] Total load now = 7110036.015120
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 286) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=742)
+[Timing] State copy:           1.583s
+[Timing] Incremental update:    0.302s
+[Timing] Total load now = 7076395.579669
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (17, 103) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=162)
+[Timing] State copy:           1.225s
+[Timing] Incremental update:    0.144s
+[Timing] Total load now = 7116654.372194
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (67, 369) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=1874)
+[Timing] State copy:           2.453s
+[Timing] Incremental update:    0.777s
+[Timing] Total load now = 7065869.368469
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (70, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=842)
+[Timing] State copy:           1.180s
+[Timing] Incremental update:    0.304s
+[Timing] Total load now = 7074091.069540
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (139, 425) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=954)
+[Timing] State copy:           1.692s
+[Timing] Incremental update:    0.333s
+[Timing] Total load now = 7068809.674545
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (97, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=444)
+[Timing] State copy:           1.181s
+[Timing] Incremental update:    0.194s
+[Timing] Total load now = 7101884.015890
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (11, 367) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1216)
+[Timing] State copy:           1.182s
+[Timing] Incremental update:    0.463s
+[Timing] Total load now = 7069878.008445
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 342) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=722)
+[Timing] State copy:           1.570s
+[Timing] Incremental update:    0.282s
+[Timing] Total load now = 7081229.508923
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (139, 384) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=838)
+[Timing] State copy:           2.096s
+[Timing] Incremental update:    0.535s
+[Timing] Total load now = 7075740.614454
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (7, 73) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=1066)
+[Timing] State copy:           1.420s
+[Timing] Incremental update:    0.437s
+[Timing] Total load now = 7074714.611048
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (67, 303) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=866)
+[Timing] State copy:           1.622s
+[Timing] Incremental update:    0.357s
+[Timing] Total load now = 7089437.672555
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (3, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=378)
+[Timing] State copy:           1.152s
+[Timing] Incremental update:    0.145s
+[Timing] Total load now = 7106039.348425
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=126)
+[Timing] State copy:           1.627s
+[Timing] Incremental update:    0.067s
+[Timing] Total load now = 7114385.084927
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (168, 200) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=314)
+[Timing] State copy:           1.127s
+[Timing] Incremental update:    0.123s
+[Timing] Total load now = 7111427.611423
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 255) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=840)
+[Timing] State copy:           1.657s
+[Timing] Incremental update:    0.291s
+[Timing] Total load now = 7075038.551431
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (11, 106) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1120)
+[Timing] State copy:           1.542s
+[Timing] Incremental update:    0.709s
+[Timing] Total load now = 7069914.233093
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (67, 119) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=934)
+[Timing] State copy:           1.564s
+[Timing] Incremental update:    0.379s
+[Timing] Total load now = 7084130.323860
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (1, 67) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=828)
+[Timing] State copy:           1.558s
+[Timing] Incremental update:    0.355s
+[Timing] Total load now = 7083352.038267
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (73, 167) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=936)
+[Timing] State copy:           1.592s
+[Timing] Incremental update:    0.422s
+[Timing] Total load now = 7091544.301745
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (13, 17) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1036)
+[Timing] State copy:           1.160s
+[Timing] Incremental update:    0.417s
+[Timing] Total load now = 7068008.362573
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 340) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=740)
+[Timing] State copy:           1.653s
+[Timing] Incremental update:    0.269s
+[Timing] Total load now = 7080968.383608
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (139, 403) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=862)
+[Timing] State copy:           1.154s
+[Timing] Incremental update:    0.339s
+[Timing] Total load now = 7072561.830533
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 58) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=748)
+[Timing] State copy:           2.371s
+[Timing] Incremental update:    0.487s
+[Timing] Total load now = 7073589.794370
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 397) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=688)
+[Timing] State copy:           1.171s
+[Timing] Incremental update:    0.247s
+[Timing] Total load now = 7084887.010075
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (103, 183) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=108)
+[Timing] State copy:           1.608s
+[Timing] Incremental update:    0.057s
+[Timing] Total load now = 7117586.708467
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (212, 216) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=614)
+[Timing] State copy:           1.175s
+[Timing] Incremental update:    0.253s
+[Timing] Total load now = 7104313.285200
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 147) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=328)
+[Timing] State copy:           1.643s
+[Timing] Incremental update:    0.151s
+[Timing] Total load now = 7111610.216439
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (73, 398) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1602)
+[Timing] State copy:           1.186s
+[Timing] Incremental update:    0.630s
+[Timing] Total load now = 7078035.789095
+[Timing] Edge removal:         0.001s
+[C–F] Best edge (73, 322) → new total load 7047792.235263 (search took 198.914s)
+
+--- Iteration 7 ---
+[A] Total stretch load = 7047792.235263
+    (took 0.000s)
+[B] Inverted weights    (took 0.000s)
+[Timing] Computed all‐pairs geodesic distances: 0.125s
+[Timing] Selected top 100 stretched pairs: 0.007s
+
+-- Testing edge (47, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=616)
+[Timing] State copy:           2.173s
+[Timing] Incremental update:    0.404s
+[Timing] Total load now = 7013642.829761
+[Update] New best edge = (47, 139) → load 7013642.829761
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (139, 367) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=694)
+[Timing] State copy:           1.136s
+[Timing] Incremental update:    0.272s
+[Timing] Total load now = 7006725.886245
+[Update] New best edge = (139, 367) → load 7006725.886245
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 341) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.002s  (#=600)
+[Timing] State copy:           1.118s
+[Timing] Incremental update:    0.227s
+[Timing] Total load now = 7014411.905775
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (43, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=644)
+[Timing] State copy:           1.589s
+[Timing] Incremental update:    0.250s
+[Timing] Total load now = 7015035.150055
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 34) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.002s  (#=780)
+[Timing] State copy:           1.153s
+[Timing] Incremental update:    0.315s
+[Timing] Total load now = 7013048.817107
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (106, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=700)
+[Timing] State copy:           2.007s
+[Timing] Incremental update:    0.459s
+[Timing] Total load now = 7006962.548089
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (114, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=330)
+[Timing] State copy:           1.573s
+[Timing] Incremental update:    0.133s
+[Timing] Total load now = 7031150.802989
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (115, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=648)
+[Timing] State copy:           1.560s
+[Timing] Incremental update:    0.268s
+[Timing] Total load now = 7010012.682652
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (67, 83) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=64)
+[Timing] State copy:           1.151s
+[Timing] Incremental update:    0.042s
+[Timing] Total load now = 7045996.750632
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (11, 67) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=112)
+[Timing] State copy:           1.555s
+[Timing] Incremental update:    0.068s
+[Timing] Total load now = 7044844.681165
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 363) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=584)
+[Timing] State copy:           1.142s
+[Timing] Incremental update:    0.220s
+[Timing] Total load now = 7014142.687817
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 212) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.004s  (#=446)
+[Timing] State copy:           1.536s
+[Timing] Incremental update:    0.210s
+[Timing] Total load now = 7021804.439429
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (67, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=302)
+[Timing] State copy:           1.133s
+[Timing] Incremental update:    0.123s
+[Timing] Total load now = 7039263.995352
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 224) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=664)
+[Timing] State copy:           2.211s
+[Timing] Incremental update:    0.432s
+[Timing] Total load now = 7009216.264455
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=90)
+[Timing] State copy:           1.240s
+[Timing] Incremental update:    0.069s
+[Timing] Total load now = 7045289.456003
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 402) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=664)
+[Timing] State copy:           1.532s
+[Timing] Incremental update:    0.248s
+[Timing] Total load now = 7009185.840453
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (139, 365) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=666)
+[Timing] State copy:           1.122s
+[Timing] Incremental update:    0.267s
+[Timing] Total load now = 7008491.338988
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (139, 244) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=664)
+[Timing] State copy:           1.555s
+[Timing] Incremental update:    0.260s
+[Timing] Total load now = 7011745.646605
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (11, 43) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1048)
+[Timing] State copy:           1.106s
+[Timing] Incremental update:    0.420s
+[Timing] Total load now = 7003775.210072
+[Update] New best edge = (11, 43) → load 7003775.210072
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (17, 97) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=814)
+[Timing] State copy:           1.290s
+[Timing] Incremental update:    0.573s
+[Timing] Total load now = 7009575.882427
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (119, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=510)
+[Timing] State copy:           2.121s
+[Timing] Incremental update:    0.200s
+[Timing] Total load now = 7019935.335003
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 212) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=518)
+[Timing] State copy:           1.145s
+[Timing] Incremental update:    0.209s
+[Timing] Total load now = 7030738.441953
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 303) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=560)
+[Timing] State copy:           1.498s
+[Timing] Incremental update:    0.208s
+[Timing] Total load now = 7016488.928037
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 39) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.005s  (#=484)
+[Timing] State copy:           1.556s
+[Timing] Incremental update:    0.190s
+[Timing] Total load now = 7032873.407356
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (139, 339) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=662)
+[Timing] State copy:           1.127s
+[Timing] Incremental update:    0.265s
+[Timing] Total load now = 7010143.394277
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=354)
+[Timing] State copy:           1.569s
+[Timing] Incremental update:    0.158s
+[Timing] Total load now = 7036002.390719
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (97, 103) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=692)
+[Timing] State copy:           1.141s
+[Timing] Incremental update:    0.306s
+[Timing] Total load now = 7023593.396595
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 164) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=580)
+[Timing] State copy:           2.486s
+[Timing] Incremental update:    0.287s
+[Timing] Total load now = 7027406.925437
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 253) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=658)
+[Timing] State copy:           1.191s
+[Timing] Incremental update:    0.245s
+[Timing] Total load now = 7011758.310736
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (139, 343) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=852)
+[Timing] State copy:           1.618s
+[Timing] Incremental update:    0.307s
+[Timing] Total load now = 7001087.474467
+[Update] New best edge = (139, 343) → load 7001087.474467
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (139, 369) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.009s  (#=688)
+[Timing] State copy:           1.659s
+[Timing] Incremental update:    0.269s
+[Timing] Total load now = 7007760.070261
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 191) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.002s  (#=570)
+[Timing] State copy:           1.151s
+[Timing] Incremental update:    0.229s
+[Timing] Total load now = 7016744.120647
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 152) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=846)
+[Timing] State copy:           1.161s
+[Timing] Incremental update:    0.307s
+[Timing] Total load now = 6999589.958348
+[Update] New best edge = (139, 152) → load 6999589.958348
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 206) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=678)
+[Timing] State copy:           1.922s
+[Timing] Incremental update:    0.280s
+[Timing] Total load now = 7007419.988915
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (120, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=686)
+[Timing] State copy:           1.143s
+[Timing] Incremental update:    0.269s
+[Timing] Total load now = 7012014.968285
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (183, 212) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=424)
+[Timing] State copy:           1.605s
+[Timing] Incremental update:    0.186s
+[Timing] Total load now = 7033504.405060
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 251) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=696)
+[Timing] State copy:           1.143s
+[Timing] Incremental update:    0.283s
+[Timing] Total load now = 7007986.241277
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (67, 106) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1468)
+[Timing] State copy:           1.582s
+[Timing] Incremental update:    0.614s
+[Timing] Total load now = 7001465.559194
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 319) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=596)
+[Timing] State copy:           1.156s
+[Timing] Incremental update:    0.236s
+[Timing] Total load now = 7017194.931073
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (73, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=630)
+[Timing] State copy:           2.243s
+[Timing] Incremental update:    0.505s
+[Timing] Total load now = 7010551.018659
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (67, 363) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=1096)
+[Timing] State copy:           1.292s
+[Timing] Incremental update:    0.463s
+[Timing] Total load now = 7011520.275021
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (41, 97) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=766)
+[Timing] State copy:           1.222s
+[Timing] Incremental update:    0.342s
+[Timing] Total load now = 7005386.221208
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 141) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=772)
+[Timing] State copy:           1.606s
+[Timing] Incremental update:    0.301s
+[Timing] Total load now = 7005470.484818
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (139, 406) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=702)
+[Timing] State copy:           1.590s
+[Timing] Incremental update:    0.294s
+[Timing] Total load now = 7008987.863363
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (13, 67) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1088)
+[Timing] State copy:           1.167s
+[Timing] Incremental update:    0.445s
+[Timing] Total load now = 7012602.059919
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (43, 67) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1088)
+[Timing] State copy:           1.699s
+[Timing] Incremental update:    0.820s
+[Timing] Total load now = 7008877.611946
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (58, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=512)
+[Timing] State copy:           1.801s
+[Timing] Incremental update:    0.204s
+[Timing] Total load now = 7023512.705022
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (164, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.005s  (#=494)
+[Timing] State copy:           1.627s
+[Timing] Incremental update:    0.208s
+[Timing] Total load now = 7023187.660414
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (168, 246) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=804)
+[Timing] State copy:           1.183s
+[Timing] Incremental update:    0.318s
+[Timing] Total load now = 7020775.752407
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (1, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=532)
+[Timing] State copy:           1.594s
+[Timing] Incremental update:    0.205s
+[Timing] Total load now = 7020785.341444
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (11, 47) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.005s  (#=934)
+[Timing] State copy:           1.216s
+[Timing] Incremental update:    0.354s
+[Timing] Total load now = 7006705.638417
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (50, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=858)
+[Timing] State copy:           1.665s
+[Timing] Incremental update:    0.320s
+[Timing] Total load now = 7001352.273779
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (167, 183) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=130)
+[Timing] State copy:           1.388s
+[Timing] Incremental update:    0.116s
+[Timing] Total load now = 7044605.123648
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (96, 97) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=774)
+[Timing] State copy:           1.909s
+[Timing] Incremental update:    0.398s
+[Timing] Total load now = 7000501.690152
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (100, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=544)
+[Timing] State copy:           1.577s
+[Timing] Incremental update:    0.215s
+[Timing] Total load now = 7017104.719701
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (24, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.005s  (#=584)
+[Timing] State copy:           1.572s
+[Timing] Incremental update:    0.230s
+[Timing] Total load now = 7013712.219795
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (11, 224) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.006s  (#=1130)
+[Timing] State copy:           1.142s
+[Timing] Incremental update:    0.448s
+[Timing] Total load now = 6998422.862035
+[Update] New best edge = (11, 224) → load 6998422.862035
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (43, 83) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=940)
+[Timing] State copy:           1.135s
+[Timing] Incremental update:    0.434s
+[Timing] Total load now = 7013051.670268
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 103) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=290)
+[Timing] State copy:           2.285s
+[Timing] Incremental update:    0.215s
+[Timing] Total load now = 7037745.186986
+[Timing] Edge removal:         0.005s
+
+-- Testing edge (139, 286) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=740)
+[Timing] State copy:           1.757s
+[Timing] Incremental update:    0.251s
+[Timing] Total load now = 7004306.027509
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 103) --
+[Timing] Edge addition:        0.001s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.004s  (#=156)
+[Timing] State copy:           1.609s
+[Timing] Incremental update:    0.102s
+[Timing] Total load now = 7044528.483325
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (67, 369) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1870)
+[Timing] State copy:           1.190s
+[Timing] Incremental update:    0.761s
+[Timing] Total load now = 6993711.348769
+[Update] New best edge = (67, 369) → load 6993711.348769
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (70, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=848)
+[Timing] State copy:           1.178s
+[Timing] Incremental update:    0.327s
+[Timing] Total load now = 7001773.723783
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (139, 425) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=960)
+[Timing] State copy:           1.170s
+[Timing] Incremental update:    0.352s
+[Timing] Total load now = 6996479.855792
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (97, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=444)
+[Timing] State copy:           1.927s
+[Timing] Incremental update:    0.304s
+[Timing] Total load now = 7029716.152753
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (11, 367) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=1196)
+[Timing] State copy:           2.115s
+[Timing] Incremental update:    0.489s
+[Timing] Total load now = 6998141.309549
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 342) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=720)
+[Timing] State copy:           1.164s
+[Timing] Incremental update:    0.268s
+[Timing] Total load now = 7009145.242589
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (139, 384) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=836)
+[Timing] State copy:           1.642s
+[Timing] Incremental update:    0.296s
+[Timing] Total load now = 7003659.222160
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (7, 73) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1026)
+[Timing] State copy:           1.186s
+[Timing] Incremental update:    0.429s
+[Timing] Total load now = 7003032.086395
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (67, 303) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=866)
+[Timing] State copy:           1.634s
+[Timing] Incremental update:    0.368s
+[Timing] Total load now = 7017198.100745
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (3, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=378)
+[Timing] State copy:           1.167s
+[Timing] Incremental update:    0.159s
+[Timing] Total load now = 7033796.891770
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=126)
+[Timing] State copy:           2.230s
+[Timing] Incremental update:    0.121s
+[Timing] Total load now = 7042142.628271
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (168, 200) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=320)
+[Timing] State copy:           1.535s
+[Timing] Incremental update:    0.132s
+[Timing] Total load now = 7038875.952437
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 255) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=838)
+[Timing] State copy:           1.210s
+[Timing] Incremental update:    0.312s
+[Timing] Total load now = 7002949.700890
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (11, 106) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1108)
+[Timing] State copy:           1.606s
+[Timing] Incremental update:    0.418s
+[Timing] Total load now = 6998219.864258
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (67, 119) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=930)
+[Timing] State copy:           1.593s
+[Timing] Incremental update:    0.430s
+[Timing] Total load now = 7012175.934707
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (1, 67) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=818)
+[Timing] State copy:           1.213s
+[Timing] Incremental update:    0.345s
+[Timing] Total load now = 7012118.183567
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (13, 17) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1022)
+[Timing] State copy:           1.643s
+[Timing] Incremental update:    0.454s
+[Timing] Total load now = 6997826.890144
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 403) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=868)
+[Timing] State copy:           1.885s
+[Timing] Incremental update:    0.583s
+[Timing] Total load now = 7000246.146309
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 340) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=738)
+[Timing] State copy:           1.669s
+[Timing] Incremental update:    0.290s
+[Timing] Total load now = 7008885.223224
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (17, 58) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=734)
+[Timing] State copy:           1.164s
+[Timing] Incremental update:    0.333s
+[Timing] Total load now = 7003081.005476
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 397) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=688)
+[Timing] State copy:           1.606s
+[Timing] Incremental update:    0.282s
+[Timing] Total load now = 7012719.146938
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (103, 183) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=108)
+[Timing] State copy:           1.167s
+[Timing] Incremental update:    0.068s
+[Timing] Total load now = 7045344.251811
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (212, 216) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=614)
+[Timing] State copy:           1.611s
+[Timing] Incremental update:    0.256s
+[Timing] Total load now = 7032070.828544
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 147) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=332)
+[Timing] State copy:           1.159s
+[Timing] Incremental update:    0.135s
+[Timing] Total load now = 7039235.282221
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (67, 287) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=318)
+[Timing] State copy:           1.617s
+[Timing] Incremental update:    0.262s
+[Timing] Total load now = 7041522.153328
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (11, 114) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=566)
+[Timing] State copy:           1.946s
+[Timing] Incremental update:    0.231s
+[Timing] Total load now = 7028510.923530
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (11, 115) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.004s  (#=1094)
+[Timing] State copy:           1.611s
+[Timing] Incremental update:    0.441s
+[Timing] Total load now = 7001094.716511
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (114, 161) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1418)
+[Timing] State copy:           1.145s
+[Timing] Incremental update:    0.557s
+[Timing] Total load now = 7003919.258630
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 67) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=366)
+[Timing] State copy:           1.614s
+[Timing] Incremental update:    0.158s
+[Timing] Total load now = 7034498.290455
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (103, 114) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=346)
+[Timing] State copy:           1.140s
+[Timing] Incremental update:    0.149s
+[Timing] Total load now = 7035057.196038
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 100) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=672)
+[Timing] State copy:           1.640s
+[Timing] Incremental update:    0.292s
+[Timing] Total load now = 7014113.156174
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (67, 97) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=662)
+[Timing] State copy:           1.754s
+[Timing] Incremental update:    0.489s
+[Timing] Total load now = 7024545.235071
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (34, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.004s  (#=704)
+[Timing] State copy:           1.866s
+[Timing] Incremental update:    0.292s
+[Timing] Total load now = 7016066.401194
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 307) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=822)
+[Timing] State copy:           1.147s
+[Timing] Incremental update:    0.298s
+[Timing] Total load now = 7003655.761652
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 366) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=854)
+[Timing] State copy:           1.634s
+[Timing] Incremental update:    0.326s
+[Timing] Total load now = 6999604.731793
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (139, 271) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=766)
+[Timing] State copy:           1.163s
+[Timing] Incremental update:    0.273s
+[Timing] Total load now = 7003978.940991
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (97, 114) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=594)
+[Timing] State copy:           1.187s
+[Timing] Incremental update:    0.248s
+[Timing] Total load now = 7023072.753299
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (93, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=354)
+[Timing] State copy:           1.568s
+[Timing] Incremental update:    0.141s
+[Timing] Total load now = 7037142.790583
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (67, 212) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=470)
+[Timing] State copy:           2.162s
+[Timing] Incremental update:    0.373s
+[Timing] Total load now = 7028426.749738
+[Timing] Edge removal:         0.001s
+[C–F] Best edge (67, 369) → new total load 6993711.348769 (search took 193.743s)
+
+--- Iteration 8 ---
+[A] Total stretch load = 6993711.348769
+    (took 0.000s)
+[B] Inverted weights    (took 0.000s)
+[Timing] Computed all‐pairs geodesic distances: 0.144s
+[Timing] Selected top 100 stretched pairs: 0.006s
+
+-- Testing edge (47, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=612)
+[Timing] State copy:           1.530s
+[Timing] Incremental update:    0.205s
+[Timing] Total load now = 6959562.528425
+[Update] New best edge = (47, 139) → load 6959562.528425
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (139, 367) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=692)
+[Timing] State copy:           1.554s
+[Timing] Incremental update:    0.279s
+[Timing] Total load now = 6952378.555964
+[Update] New best edge = (139, 367) → load 6952378.555964
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (139, 341) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=602)
+[Timing] State copy:           1.602s
+[Timing] Incremental update:    0.263s
+[Timing] Total load now = 6960232.794799
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (43, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=584)
+[Timing] State copy:           1.164s
+[Timing] Incremental update:    0.378s
+[Timing] Total load now = 6961880.183609
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 34) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=780)
+[Timing] State copy:           2.402s
+[Timing] Incremental update:    0.346s
+[Timing] Total load now = 6958967.930613
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (106, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=698)
+[Timing] State copy:           1.184s
+[Timing] Incremental update:    0.262s
+[Timing] Total load now = 6952697.613811
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (114, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=330)
+[Timing] State copy:           1.627s
+[Timing] Incremental update:    0.138s
+[Timing] Total load now = 6977069.916495
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (115, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=646)
+[Timing] State copy:           1.166s
+[Timing] Incremental update:    0.248s
+[Timing] Total load now = 6955857.446476
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (67, 83) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=502)
+[Timing] State copy:           1.628s
+[Timing] Incremental update:    0.222s
+[Timing] Total load now = 6972299.271671
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (11, 67) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=602)
+[Timing] State copy:           1.162s
+[Timing] Incremental update:    0.235s
+[Timing] Total load now = 6965274.185362
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 363) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.004s  (#=586)
+[Timing] State copy:           1.704s
+[Timing] Incremental update:    0.402s
+[Timing] Total load now = 6959918.523465
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 212) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=448)
+[Timing] State copy:           1.946s
+[Timing] Incremental update:    0.290s
+[Timing] Total load now = 6967599.923356
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (67, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=664)
+[Timing] State copy:           1.681s
+[Timing] Incremental update:    0.297s
+[Timing] Total load now = 6963668.081809
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 224) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=658)
+[Timing] State copy:           1.147s
+[Timing] Incremental update:    0.271s
+[Timing] Total load now = 6954972.498397
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=90)
+[Timing] State copy:           1.590s
+[Timing] Incremental update:    0.049s
+[Timing] Total load now = 6991208.569509
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 402) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=660)
+[Timing] State copy:           1.170s
+[Timing] Incremental update:    0.275s
+[Timing] Total load now = 6954981.845806
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (139, 365) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=666)
+[Timing] State copy:           1.567s
+[Timing] Incremental update:    0.267s
+[Timing] Total load now = 6954307.273788
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (139, 244) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=664)
+[Timing] State copy:           1.203s
+[Timing] Incremental update:    0.246s
+[Timing] Total load now = 6957556.391161
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (11, 43) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=964)
+[Timing] State copy:           2.413s
+[Timing] Incremental update:    0.609s
+[Timing] Total load now = 6953675.300162
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 97) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=814)
+[Timing] State copy:           1.189s
+[Timing] Incremental update:    0.346s
+[Timing] Total load now = 6955494.995933
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (119, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=502)
+[Timing] State copy:           1.607s
+[Timing] Incremental update:    0.197s
+[Timing] Total load now = 6965940.301312
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 212) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=520)
+[Timing] State copy:           1.590s
+[Timing] Incremental update:    0.228s
+[Timing] Total load now = 6976291.862014
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 303) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.004s  (#=562)
+[Timing] State copy:           1.175s
+[Timing] Incremental update:    0.210s
+[Timing] Total load now = 6962268.051530
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 39) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.004s  (#=484)
+[Timing] State copy:           1.704s
+[Timing] Incremental update:    0.204s
+[Timing] Total load now = 6978792.520862
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 339) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=662)
+[Timing] State copy:           1.172s
+[Timing] Incremental update:    0.289s
+[Timing] Total load now = 6955953.497958
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=354)
+[Timing] State copy:           2.536s
+[Timing] Incremental update:    0.149s
+[Timing] Total load now = 6981921.504224
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (97, 103) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=688)
+[Timing] State copy:           1.190s
+[Timing] Incremental update:    0.307s
+[Timing] Total load now = 6969700.264270
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 164) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=580)
+[Timing] State copy:           1.689s
+[Timing] Incremental update:    0.223s
+[Timing] Total load now = 6973326.038943
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 253) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=650)
+[Timing] State copy:           1.175s
+[Timing] Incremental update:    0.250s
+[Timing] Total load now = 6957795.254028
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (139, 343) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=854)
+[Timing] State copy:           1.235s
+[Timing] Incremental update:    0.326s
+[Timing] Total load now = 6946906.556858
+[Update] New best edge = (139, 343) → load 6946906.556858
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (139, 369) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=684)
+[Timing] State copy:           1.590s
+[Timing] Incremental update:    0.348s
+[Timing] Total load now = 6953418.194465
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 191) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=570)
+[Timing] State copy:           1.932s
+[Timing] Incremental update:    0.410s
+[Timing] Total load now = 6962673.338498
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 152) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=848)
+[Timing] State copy:           1.671s
+[Timing] Incremental update:    0.328s
+[Timing] Total load now = 6945268.996596
+[Update] New best edge = (139, 152) → load 6945268.996596
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (139, 206) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.010s  (#=680)
+[Timing] State copy:           1.639s
+[Timing] Incremental update:    0.295s
+[Timing] Total load now = 6953197.671235
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (120, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=688)
+[Timing] State copy:           1.204s
+[Timing] Incremental update:    0.268s
+[Timing] Total load now = 6957840.038525
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (183, 212) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=424)
+[Timing] State copy:           1.671s
+[Timing] Incremental update:    0.191s
+[Timing] Total load now = 6979477.167970
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 251) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=694)
+[Timing] State copy:           1.196s
+[Timing] Incremental update:    0.263s
+[Timing] Total load now = 6953833.879880
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (139, 319) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=596)
+[Timing] State copy:           2.372s
+[Timing] Incremental update:    0.471s
+[Timing] Total load now = 6963114.044578
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (73, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=632)
+[Timing] State copy:           1.237s
+[Timing] Incremental update:    0.277s
+[Timing] Total load now = 6956520.555880
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (41, 97) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=766)
+[Timing] State copy:           1.181s
+[Timing] Incremental update:    0.344s
+[Timing] Total load now = 6951305.334713
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 141) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=770)
+[Timing] State copy:           1.614s
+[Timing] Incremental update:    0.307s
+[Timing] Total load now = 6951319.067339
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (139, 406) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=700)
+[Timing] State copy:           1.652s
+[Timing] Incremental update:    0.297s
+[Timing] Total load now = 6954886.452236
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (58, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=512)
+[Timing] State copy:           1.276s
+[Timing] Incremental update:    0.208s
+[Timing] Total load now = 6969486.303751
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (164, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=494)
+[Timing] State copy:           1.707s
+[Timing] Incremental update:    0.432s
+[Timing] Total load now = 6969217.625892
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (168, 246) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=804)
+[Timing] State copy:           1.914s
+[Timing] Incremental update:    0.428s
+[Timing] Total load now = 6966709.663675
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (1, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.002s  (#=530)
+[Timing] State copy:           1.676s
+[Timing] Incremental update:    0.220s
+[Timing] Total load now = 6966756.832186
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (11, 47) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=914)
+[Timing] State copy:           1.169s
+[Timing] Incremental update:    0.365s
+[Timing] Total load now = 6953239.842275
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (50, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.004s  (#=854)
+[Timing] State copy:           1.667s
+[Timing] Incremental update:    0.308s
+[Timing] Total load now = 6947221.406806
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (167, 183) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=130)
+[Timing] State copy:           1.235s
+[Timing] Incremental update:    0.068s
+[Timing] Total load now = 6990524.237154
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (96, 97) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=772)
+[Timing] State copy:           1.638s
+[Timing] Incremental update:    0.335s
+[Timing] Total load now = 6946689.996639
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (100, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=544)
+[Timing] State copy:           1.262s
+[Timing] Incremental update:    0.395s
+[Timing] Total load now = 6963083.502806
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (24, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=584)
+[Timing] State copy:           1.906s
+[Timing] Incremental update:    0.316s
+[Timing] Total load now = 6959532.392721
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (11, 224) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1030)
+[Timing] State copy:           1.556s
+[Timing] Incremental update:    0.409s
+[Timing] Total load now = 6946765.967385
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (43, 83) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=832)
+[Timing] State copy:           1.680s
+[Timing] Incremental update:    0.356s
+[Timing] Total load now = 6963083.153341
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 103) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=290)
+[Timing] State copy:           1.176s
+[Timing] Incremental update:    0.136s
+[Timing] Total load now = 6983665.408951
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 286) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=736)
+[Timing] State copy:           1.709s
+[Timing] Incremental update:    0.282s
+[Timing] Total load now = 6950065.872509
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (17, 103) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=156)
+[Timing] State copy:           1.165s
+[Timing] Incremental update:    0.085s
+[Timing] Total load now = 6990447.596830
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (70, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=850)
+[Timing] State copy:           1.909s
+[Timing] Incremental update:    0.563s
+[Timing] Total load now = 6947547.967256
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 425) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=962)
+[Timing] State copy:           1.768s
+[Timing] Incremental update:    0.350s
+[Timing] Total load now = 6942254.946116
+[Update] New best edge = (139, 425) → load 6942254.946116
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (97, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=444)
+[Timing] State copy:           2.371s
+[Timing] Incremental update:    0.399s
+[Timing] Total load now = 6975635.266258
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (11, 367) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=1084)
+[Timing] State copy:           2.546s
+[Timing] Incremental update:    0.838s
+[Timing] Total load now = 6946358.268266
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 342) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=722)
+[Timing] State copy:           3.201s
+[Timing] Incremental update:    0.954s
+[Timing] Total load now = 6954922.184597
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 384) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.007s  (#=838)
+[Timing] State copy:           2.965s
+[Timing] Incremental update:    0.598s
+[Timing] Total load now = 6949480.490106
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (7, 73) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.004s  (#=1018)
+[Timing] State copy:           2.034s
+[Timing] Incremental update:    0.788s
+[Timing] Total load now = 6949345.362533
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (3, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=378)
+[Timing] State copy:           2.662s
+[Timing] Incremental update:    0.262s
+[Timing] Total load now = 6979716.005275
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=126)
+[Timing] State copy:           2.714s
+[Timing] Incremental update:    0.281s
+[Timing] Total load now = 6988061.741776
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (168, 200) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.005s  (#=320)
+[Timing] State copy:           2.243s
+[Timing] Incremental update:    0.124s
+[Timing] Total load now = 6984854.735542
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 255) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=844)
+[Timing] State copy:           1.159s
+[Timing] Incremental update:    0.305s
+[Timing] Total load now = 6948548.835341
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (11, 106) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=1050)
+[Timing] State copy:           1.605s
+[Timing] Incremental update:    0.403s
+[Timing] Total load now = 6945827.530824
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (13, 17) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.002s  (#=1022)
+[Timing] State copy:           1.151s
+[Timing] Incremental update:    0.475s
+[Timing] Total load now = 6943746.003650
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 403) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.002s  (#=870)
+[Timing] State copy:           1.708s
+[Timing] Incremental update:    0.329s
+[Timing] Total load now = 6946020.876390
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 340) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=740)
+[Timing] State copy:           1.171s
+[Timing] Incremental update:    0.275s
+[Timing] Total load now = 6954707.507645
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (17, 58) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=734)
+[Timing] State copy:           1.731s
+[Timing] Incremental update:    0.543s
+[Timing] Total load now = 6949054.604205
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 397) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=690)
+[Timing] State copy:           1.804s
+[Timing] Incremental update:    0.261s
+[Timing] Total load now = 6958549.710481
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (103, 183) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=108)
+[Timing] State copy:           1.625s
+[Timing] Incremental update:    0.058s
+[Timing] Total load now = 6991264.473776
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (212, 216) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=618)
+[Timing] State copy:           1.152s
+[Timing] Incremental update:    0.233s
+[Timing] Total load now = 6977678.492868
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 147) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=332)
+[Timing] State copy:           1.635s
+[Timing] Incremental update:    0.140s
+[Timing] Total load now = 6985154.395726
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (67, 287) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=824)
+[Timing] State copy:           1.160s
+[Timing] Incremental update:    0.324s
+[Timing] Total load now = 6964452.386307
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (11, 114) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=566)
+[Timing] State copy:           1.660s
+[Timing] Incremental update:    0.233s
+[Timing] Total load now = 6974430.037035
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (11, 115) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=1010)
+[Timing] State copy:           1.629s
+[Timing] Incremental update:    0.668s
+[Timing] Total load now = 6948435.514945
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (114, 161) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.005s  (#=1418)
+[Timing] State copy:           1.928s
+[Timing] Incremental update:    0.576s
+[Timing] Total load now = 6949838.372136
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 67) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=522)
+[Timing] State copy:           1.149s
+[Timing] Incremental update:    0.200s
+[Timing] Total load now = 6975085.091418
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (103, 114) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=346)
+[Timing] State copy:           1.146s
+[Timing] Incremental update:    0.150s
+[Timing] Total load now = 6981080.910835
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 100) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=672)
+[Timing] State copy:           1.540s
+[Timing] Incremental update:    0.291s
+[Timing] Total load now = 6960032.269680
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (34, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=702)
+[Timing] State copy:           1.592s
+[Timing] Incremental update:    0.298s
+[Timing] Total load now = 6962086.390154
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 366) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=858)
+[Timing] State copy:           1.168s
+[Timing] Incremental update:    0.310s
+[Timing] Total load now = 6945225.538784
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 271) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=770)
+[Timing] State copy:           2.262s
+[Timing] Incremental update:    0.494s
+[Timing] Total load now = 6949635.946760
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 307) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=824)
+[Timing] State copy:           1.257s
+[Timing] Incremental update:    0.321s
+[Timing] Total load now = 6949436.523838
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (97, 114) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=594)
+[Timing] State copy:           1.596s
+[Timing] Incremental update:    0.239s
+[Timing] Total load now = 6968991.866804
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (93, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=358)
+[Timing] State copy:           1.159s
+[Timing] Incremental update:    0.164s
+[Timing] Total load now = 6982960.851383
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (111, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=712)
+[Timing] State copy:           1.573s
+[Timing] Incremental update:    0.261s
+[Timing] Total load now = 6954679.332830
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (14, 23) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=448)
+[Timing] State copy:           1.163s
+[Timing] Incremental update:    0.194s
+[Timing] Total load now = 6976843.075209
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 147) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=418)
+[Timing] State copy:           1.688s
+[Timing] Incremental update:    0.183s
+[Timing] Total load now = 6979109.414764
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (116, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=750)
+[Timing] State copy:           1.657s
+[Timing] Incremental update:    0.485s
+[Timing] Total load now = 6952492.371104
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (97, 280) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.005s  (#=1082)
+[Timing] State copy:           1.559s
+[Timing] Incremental update:    0.466s
+[Timing] Total load now = 6943596.280429
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (3, 97) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=850)
+[Timing] State copy:           1.549s
+[Timing] Incremental update:    0.357s
+[Timing] Total load now = 6958386.220464
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 166) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=882)
+[Timing] State copy:           1.635s
+[Timing] Incremental update:    0.362s
+[Timing] Total load now = 6944631.287617
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (103, 191) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=686)
+[Timing] State copy:           1.183s
+[Timing] Incremental update:    0.302s
+[Timing] Total load now = 6961987.213354
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (8, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.002s  (#=710)
+[Timing] State copy:           1.681s
+[Timing] Incremental update:    0.293s
+[Timing] Total load now = 6957320.451991
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 23) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=398)
+[Timing] State copy:           1.180s
+[Timing] Incremental update:    0.176s
+[Timing] Total load now = 6978753.338129
+[Timing] Edge removal:         0.001s
+[C–F] Best edge (139, 425) → new total load 6942254.946116 (search took 201.419s)
+
+--- Iteration 9 ---
+[A] Total stretch load = 6942254.946116
+    (took 0.000s)
+[B] Inverted weights    (took 0.025s)
+[Timing] Computed all‐pairs geodesic distances: 0.140s
+[Timing] Selected top 100 stretched pairs: 0.007s
+
+-- Testing edge (34, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=704)
+[Timing] State copy:           1.212s
+[Timing] Incremental update:    0.300s
+[Timing] Total load now = 6910533.245670
+[Update] New best edge = (34, 168) → load 6910533.245670
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (103, 183) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=108)
+[Timing] State copy:           1.208s
+[Timing] Incremental update:    0.060s
+[Timing] Total load now = 6939808.071124
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (14, 23) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=448)
+[Timing] State copy:           1.624s
+[Timing] Incremental update:    0.192s
+[Timing] Total load now = 6925386.672556
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (97, 103) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=690)
+[Timing] State copy:           1.203s
+[Timing] Incremental update:    0.291s
+[Timing] Total load now = 6918153.715769
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 297) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1004)
+[Timing] State copy:           1.590s
+[Timing] Incremental update:    0.433s
+[Timing] Total load now = 6890287.036374
+[Update] New best edge = (17, 297) → load 6890287.036374
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (97, 114) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=598)
+[Timing] State copy:           1.988s
+[Timing] Incremental update:    0.245s
+[Timing] Total load now = 6917404.057448
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (114, 161) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=1416)
+[Timing] State copy:           1.193s
+[Timing] Incremental update:    0.565s
+[Timing] Total load now = 6898572.032196
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (3, 13) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=1362)
+[Timing] State copy:           1.593s
+[Timing] Incremental update:    0.583s
+[Timing] Total load now = 6884011.738838
+[Update] New best edge = (3, 13) → load 6884011.738838
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (67, 287) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=556)
+[Timing] State copy:           1.158s
+[Timing] Incremental update:    0.218s
+[Timing] Total load now = 6929377.313700
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 226) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=1228)
+[Timing] State copy:           1.669s
+[Timing] Incremental update:    0.540s
+[Timing] Total load now = 6881310.750374
+[Update] New best edge = (17, 226) → load 6881310.750374
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (212, 216) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=618)
+[Timing] State copy:           1.828s
+[Timing] Incremental update:    0.245s
+[Timing] Total load now = 6926222.090216
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (97, 174) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1248)
+[Timing] State copy:           1.167s
+[Timing] Incremental update:    0.538s
+[Timing] Total load now = 6877232.300314
+[Update] New best edge = (97, 174) → load 6877232.300314
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (3, 97) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=852)
+[Timing] State copy:           1.153s
+[Timing] Incremental update:    0.368s
+[Timing] Total load now = 6906843.255223
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (97, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=652)
+[Timing] State copy:           1.181s
+[Timing] Incremental update:    0.279s
+[Timing] Total load now = 6910741.006658
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (3, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=1038)
+[Timing] State copy:           1.563s
+[Timing] Incremental update:    0.406s
+[Timing] Total load now = 6902954.558122
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 280) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=404)
+[Timing] State copy:           2.268s
+[Timing] Incremental update:    0.302s
+[Timing] Total load now = 6925824.678589
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (14, 114) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=484)
+[Timing] State copy:           1.258s
+[Timing] Incremental update:    0.194s
+[Timing] Total load now = 6928962.211802
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 166) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=888)
+[Timing] State copy:           1.586s
+[Timing] Incremental update:    0.396s
+[Timing] Total load now = 6892599.241567
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=90)
+[Timing] State copy:           1.143s
+[Timing] Incremental update:    0.048s
+[Timing] Total load now = 6939752.166856
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (168, 246) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=804)
+[Timing] State copy:           1.590s
+[Timing] Incremental update:    0.337s
+[Timing] Total load now = 6915253.261023
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 212) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=520)
+[Timing] State copy:           1.152s
+[Timing] Incremental update:    0.197s
+[Timing] Total load now = 6924835.459362
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=702)
+[Timing] State copy:           1.605s
+[Timing] Incremental update:    0.297s
+[Timing] Total load now = 6901639.752864
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (96, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1168)
+[Timing] State copy:           1.602s
+[Timing] Incremental update:    0.852s
+[Timing] Total load now = 6872509.125607
+[Update] New best edge = (96, 139) → load 6872509.125607
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (168, 216) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=438)
+[Timing] State copy:           1.187s
+[Timing] Incremental update:    0.205s
+[Timing] Total load now = 6921764.692588
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 105) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=394)
+[Timing] State copy:           1.153s
+[Timing] Incremental update:    0.173s
+[Timing] Total load now = 6932472.728462
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (17, 97) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=820)
+[Timing] State copy:           1.520s
+[Timing] Incremental update:    0.345s
+[Timing] Total load now = 6903639.536488
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 100) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=672)
+[Timing] State copy:           1.615s
+[Timing] Incremental update:    0.304s
+[Timing] Total load now = 6908455.046154
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 103) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=156)
+[Timing] State copy:           1.122s
+[Timing] Incremental update:    0.082s
+[Timing] Total load now = 6938991.194178
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (96, 97) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.009s  (#=780)
+[Timing] State copy:           2.029s
+[Timing] Incremental update:    0.585s
+[Timing] Total load now = 6894719.440381
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 164) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=582)
+[Timing] State copy:           1.590s
+[Timing] Incremental update:    0.275s
+[Timing] Total load now = 6921829.395451
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (23, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=354)
+[Timing] State copy:           1.595s
+[Timing] Incremental update:    0.154s
+[Timing] Total load now = 6930465.101572
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 58) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=736)
+[Timing] State copy:           1.164s
+[Timing] Incremental update:    0.317s
+[Timing] Total load now = 6897428.973040
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (103, 191) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=688)
+[Timing] State copy:           1.673s
+[Timing] Incremental update:    0.325s
+[Timing] Total load now = 6910441.561351
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (103, 114) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=344)
+[Timing] State copy:           1.219s
+[Timing] Incremental update:    0.147s
+[Timing] Total load now = 6929667.411589
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (183, 191) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1374)
+[Timing] State copy:           1.150s
+[Timing] Incremental update:    0.579s
+[Timing] Total load now = 6902689.058953
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (97, 280) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=1090)
+[Timing] State copy:           1.961s
+[Timing] Incremental update:    0.820s
+[Timing] Total load now = 6891633.422683
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 34) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=782)
+[Timing] State copy:           1.912s
+[Timing] Incremental update:    0.340s
+[Timing] Total load now = 6907329.907209
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 433) --
+[Timing] Edge addition:        0.001s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=1014)
+[Timing] State copy:           1.189s
+[Timing] Incremental update:    0.387s
+[Timing] Total load now = 6888386.432892
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (168, 200) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=320)
+[Timing] State copy:           1.593s
+[Timing] Incremental update:    0.135s
+[Timing] Total load now = 6933398.332890
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (11, 67) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=268)
+[Timing] State copy:           1.149s
+[Timing] Incremental update:    0.118s
+[Timing] Total load now = 6935811.316058
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 147) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=418)
+[Timing] State copy:           1.598s
+[Timing] Incremental update:    0.184s
+[Timing] Total load now = 6927653.012112
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 23) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=398)
+[Timing] State copy:           1.132s
+[Timing] Incremental update:    0.166s
+[Timing] Total load now = 6927296.935476
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 96) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=440)
+[Timing] State copy:           2.034s
+[Timing] Incremental update:    0.328s
+[Timing] Total load now = 6925154.082973
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 103) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=290)
+[Timing] State copy:           1.635s
+[Timing] Incremental update:    0.125s
+[Timing] Total load now = 6932209.006299
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 67) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=524)
+[Timing] State copy:           1.593s
+[Timing] Incremental update:    0.228s
+[Timing] Total load now = 6923588.909814
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (11, 114) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=604)
+[Timing] State copy:           1.144s
+[Timing] Incremental update:    0.263s
+[Timing] Total load now = 6924380.690959
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (183, 212) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=422)
+[Timing] State copy:           1.161s
+[Timing] Incremental update:    0.173s
+[Timing] Total load now = 6928081.702370
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 39) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=482)
+[Timing] State copy:           1.540s
+[Timing] Incremental update:    0.183s
+[Timing] Total load now = 6927342.675315
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (41, 97) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=772)
+[Timing] State copy:           1.602s
+[Timing] Incremental update:    0.334s
+[Timing] Total load now = 6899459.812347
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (54, 97) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1164)
+[Timing] State copy:           1.157s
+[Timing] Incremental update:    0.855s
+[Timing] Total load now = 6904375.147563
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 147) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=690)
+[Timing] State copy:           2.171s
+[Timing] Incremental update:    0.301s
+[Timing] Total load now = 6914616.219588
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (100, 147) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=552)
+[Timing] State copy:           1.167s
+[Timing] Incremental update:    0.228s
+[Timing] Total load now = 6921722.447900
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (73, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.004s  (#=638)
+[Timing] State copy:           1.654s
+[Timing] Incremental update:    0.260s
+[Timing] Total load now = 6904722.811288
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (100, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=546)
+[Timing] State copy:           1.159s
+[Timing] Incremental update:    0.263s
+[Timing] Total load now = 6911491.088068
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (100, 212) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=640)
+[Timing] State copy:           1.639s
+[Timing] Incremental update:    0.268s
+[Timing] Total load now = 6925225.560064
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (105, 164) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=572)
+[Timing] State copy:           1.189s
+[Timing] Incremental update:    0.256s
+[Timing] Total load now = 6927053.523284
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (34, 97) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=310)
+[Timing] State copy:           2.029s
+[Timing] Incremental update:    0.218s
+[Timing] Total load now = 6933947.735013
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (84, 114) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=1336)
+[Timing] State copy:           1.777s
+[Timing] Incremental update:    0.526s
+[Timing] Total load now = 6899074.878434
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (167, 183) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=130)
+[Timing] State copy:           1.174s
+[Timing] Incremental update:    0.067s
+[Timing] Total load now = 6939067.834501
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (41, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1004)
+[Timing] State copy:           1.558s
+[Timing] Incremental update:    0.431s
+[Timing] Total load now = 6888819.661445
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (7, 73) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1022)
+[Timing] State copy:           1.595s
+[Timing] Incremental update:    0.431s
+[Timing] Total load now = 6897610.218912
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (34, 114) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=602)
+[Timing] State copy:           1.149s
+[Timing] Incremental update:    0.267s
+[Timing] Total load now = 6917211.442309
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (65, 114) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1168)
+[Timing] State copy:           1.647s
+[Timing] Incremental update:    0.510s
+[Timing] Total load now = 6902926.663732
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (93, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=358)
+[Timing] State copy:           1.694s
+[Timing] Incremental update:    0.248s
+[Timing] Total load now = 6931504.448731
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (164, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=496)
+[Timing] State copy:           2.043s
+[Timing] Incremental update:    0.229s
+[Timing] Total load now = 6917608.109797
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (114, 426) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.005s  (#=2126)
+[Timing] State copy:           1.180s
+[Timing] Incremental update:    0.850s
+[Timing] Total load now = 6884213.601449
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (13, 17) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1028)
+[Timing] State copy:           1.610s
+[Timing] Incremental update:    0.460s
+[Timing] Total load now = 6891899.835106
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (34, 212) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=638)
+[Timing] State copy:           1.185s
+[Timing] Incremental update:    0.269s
+[Timing] Total load now = 6926191.610832
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (67, 83) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=324)
+[Timing] State copy:           1.152s
+[Timing] Incremental update:    0.127s
+[Timing] Total load now = 6931268.880011
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (34, 200) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1042)
+[Timing] State copy:           1.515s
+[Timing] Incremental update:    0.402s
+[Timing] Total load now = 6904152.832566
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (65, 212) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=942)
+[Timing] State copy:           2.422s
+[Timing] Incremental update:    0.499s
+[Timing] Total load now = 6917588.414026
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (83, 114) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=456)
+[Timing] State copy:           1.164s
+[Timing] Incremental update:    0.187s
+[Timing] Total load now = 6930343.855304
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (103, 172) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=358)
+[Timing] State copy:           1.603s
+[Timing] Incremental update:    0.142s
+[Timing] Total load now = 6930570.940694
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 397) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1028)
+[Timing] State copy:           1.150s
+[Timing] Incremental update:    0.428s
+[Timing] Total load now = 6889910.496763
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (34, 103) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=442)
+[Timing] State copy:           1.625s
+[Timing] Incremental update:    0.181s
+[Timing] Total load now = 6926377.175709
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 18) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=812)
+[Timing] State copy:           1.177s
+[Timing] Incremental update:    0.354s
+[Timing] Total load now = 6906981.995911
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (73, 96) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1252)
+[Timing] State copy:           1.616s
+[Timing] Incremental update:    0.860s
+[Timing] Total load now = 6873993.245821
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (7, 23) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=530)
+[Timing] State copy:           1.905s
+[Timing] Incremental update:    0.193s
+[Timing] Total load now = 6923483.236654
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 39) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.002s  (#=366)
+[Timing] State copy:           1.597s
+[Timing] Incremental update:    0.166s
+[Timing] Total load now = 6933912.345955
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (41, 64) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=1512)
+[Timing] State copy:           1.203s
+[Timing] Incremental update:    0.625s
+[Timing] Total load now = 6870448.592947
+[Update] New best edge = (41, 64) → load 6870448.592947
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (97, 447) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1842)
+[Timing] State copy:           1.553s
+[Timing] Incremental update:    0.785s
+[Timing] Total load now = 6879961.588083
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 129) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1292)
+[Timing] State copy:           1.568s
+[Timing] Incremental update:    0.550s
+[Timing] Total load now = 6879708.534402
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (43, 103) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=602)
+[Timing] State copy:           1.615s
+[Timing] Incremental update:    0.464s
+[Timing] Total load now = 6914210.282145
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (97, 167) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=780)
+[Timing] State copy:           2.054s
+[Timing] Incremental update:    0.328s
+[Timing] Total load now = 6911227.514732
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (139, 447) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=3950)
+[Timing] State copy:           1.148s
+[Timing] Incremental update:    1.624s
+[Timing] Total load now = 6828212.408540
+[Update] New best edge = (139, 447) → load 6828212.408540
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (62, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=484)
+[Timing] State copy:           1.136s
+[Timing] Incremental update:    0.210s
+[Timing] Total load now = 6929967.649677
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (164, 216) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=568)
+[Timing] State copy:           1.581s
+[Timing] Incremental update:    0.227s
+[Timing] Total load now = 6928072.633112
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (18, 103) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=474)
+[Timing] State copy:           1.262s
+[Timing] Incremental update:    0.345s
+[Timing] Total load now = 6923761.558696
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (34, 46) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=474)
+[Timing] State copy:           2.337s
+[Timing] Incremental update:    0.192s
+[Timing] Total load now = 6930357.428825
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 46) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=430)
+[Timing] State copy:           1.172s
+[Timing] Incremental update:    0.181s
+[Timing] Total load now = 6926603.775439
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (2, 23) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=444)
+[Timing] State copy:           1.151s
+[Timing] Incremental update:    0.174s
+[Timing] Total load now = 6925693.297676
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 105) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=524)
+[Timing] State copy:           1.533s
+[Timing] Incremental update:    0.186s
+[Timing] Total load now = 6923015.414129
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (96, 100) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=970)
+[Timing] State copy:           1.621s
+[Timing] Incremental update:    0.415s
+[Timing] Total load now = 6891269.555334
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (67, 124) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=462)
+[Timing] State copy:           1.209s
+[Timing] Incremental update:    0.193s
+[Timing] Total load now = 6930027.913637
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (65, 83) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=462)
+[Timing] State copy:           1.625s
+[Timing] Incremental update:    0.273s
+[Timing] Total load now = 6930860.527372
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (156, 212) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=1324)
+[Timing] State copy:           1.878s
+[Timing] Incremental update:    0.816s
+[Timing] Total load now = 6910095.768103
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (39, 216) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=458)
+[Timing] State copy:           1.605s
+[Timing] Incremental update:    0.187s
+[Timing] Total load now = 6931463.970779
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (168, 280) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=240)
+[Timing] State copy:           1.184s
+[Timing] Incremental update:    0.109s
+[Timing] Total load now = 6935100.959929
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (32, 139) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1850)
+[Timing] State copy:           1.612s
+[Timing] Incremental update:    0.750s
+[Timing] Total load now = 6885710.917010
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 96) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=108)
+[Timing] State copy:           1.160s
+[Timing] Incremental update:    0.057s
+[Timing] Total load now = 6938918.076428
+[Timing] Edge removal:         0.000s
+[C–F] Best edge (139, 447) → new total load 6828212.408540 (search took 199.557s)
+
+--- Iteration 10 ---
+[A] Total stretch load = 6828212.408540
+    (took 0.000s)
+[B] Inverted weights    (took 0.000s)
+[Timing] Computed all‐pairs geodesic distances: 0.135s
+[Timing] Selected top 100 stretched pairs: 0.004s
+
+-- Testing edge (17, 34) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=780)
+[Timing] State copy:           1.478s
+[Timing] Incremental update:    0.376s
+[Timing] Total load now = 6793468.990384
+[Update] New best edge = (17, 34) → load 6793468.990384
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (67, 83) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=324)
+[Timing] State copy:           1.152s
+[Timing] Incremental update:    0.146s
+[Timing] Total load now = 6817269.306282
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (11, 67) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=276)
+[Timing] State copy:           1.648s
+[Timing] Incremental update:    0.129s
+[Timing] Total load now = 6821650.401946
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=90)
+[Timing] State copy:           1.160s
+[Timing] Incremental update:    0.054s
+[Timing] Total load now = 6825709.629280
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 97) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=806)
+[Timing] State copy:           1.600s
+[Timing] Incremental update:    0.339s
+[Timing] Total load now = 6790717.310109
+[Update] New best edge = (17, 97) → load 6790717.310109
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (23, 212) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=520)
+[Timing] State copy:           1.581s
+[Timing] Incremental update:    0.192s
+[Timing] Total load now = 6810792.921786
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 39) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=480)
+[Timing] State copy:           1.434s
+[Timing] Incremental update:    0.323s
+[Timing] Total load now = 6813305.875207
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=354)
+[Timing] State copy:           2.086s
+[Timing] Incremental update:    0.157s
+[Timing] Total load now = 6816503.042135
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (97, 103) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=676)
+[Timing] State copy:           1.140s
+[Timing] Incremental update:    0.300s
+[Timing] Total load now = 6804595.998855
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 164) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=580)
+[Timing] State copy:           1.578s
+[Timing] Incremental update:    0.215s
+[Timing] Total load now = 6807827.098714
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (183, 212) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.005s  (#=422)
+[Timing] State copy:           1.155s
+[Timing] Incremental update:    0.179s
+[Timing] Total load now = 6814039.164793
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (73, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=632)
+[Timing] State copy:           1.583s
+[Timing] Incremental update:    0.261s
+[Timing] Total load now = 6791187.522603
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (164, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=494)
+[Timing] State copy:           1.158s
+[Timing] Incremental update:    0.202s
+[Timing] Total load now = 6803866.798806
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (168, 246) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=802)
+[Timing] State copy:           1.674s
+[Timing] Incremental update:    0.539s
+[Timing] Total load now = 6801354.304926
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (167, 183) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=130)
+[Timing] State copy:           1.899s
+[Timing] Incremental update:    0.064s
+[Timing] Total load now = 6825025.296925
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (96, 97) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=762)
+[Timing] State copy:           1.562s
+[Timing] Incremental update:    0.337s
+[Timing] Total load now = 6782918.027031
+[Update] New best edge = (96, 97) → load 6782918.027031
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (100, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=544)
+[Timing] State copy:           1.561s
+[Timing] Incremental update:    0.231s
+[Timing] Total load now = 6797732.675721
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 103) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.004s  (#=290)
+[Timing] State copy:           1.129s
+[Timing] Incremental update:    0.127s
+[Timing] Total load now = 6818166.468723
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 103) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=152)
+[Timing] State copy:           1.551s
+[Timing] Incremental update:    0.082s
+[Timing] Total load now = 6825044.515787
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (7, 73) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=986)
+[Timing] State copy:           1.117s
+[Timing] Incremental update:    0.419s
+[Timing] Total load now = 6784824.842811
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (168, 200) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=320)
+[Timing] State copy:           2.170s
+[Timing] Incremental update:    0.228s
+[Timing] Total load now = 6819398.642027
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (13, 17) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.005s
+[Timing] Affected pairs:       0.003s  (#=1012)
+[Timing] State copy:           1.471s
+[Timing] Incremental update:    0.435s
+[Timing] Total load now = 6779217.434500
+[Update] New best edge = (13, 17) → load 6779217.434500
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (17, 58) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=728)
+[Timing] State copy:           1.530s
+[Timing] Incremental update:    0.330s
+[Timing] Total load now = 6784277.915362
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (103, 183) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=108)
+[Timing] State copy:           1.183s
+[Timing] Incremental update:    0.059s
+[Timing] Total load now = 6825765.533547
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (212, 216) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=620)
+[Timing] State copy:           1.568s
+[Timing] Incremental update:    0.259s
+[Timing] Total load now = 6812176.958788
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (67, 287) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.004s  (#=566)
+[Timing] State copy:           1.149s
+[Timing] Incremental update:    0.231s
+[Timing] Total load now = 6815178.822284
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (114, 161) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=1222)
+[Timing] State copy:           1.981s
+[Timing] Incremental update:    0.841s
+[Timing] Total load now = 6789614.463227
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 67) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=522)
+[Timing] State copy:           1.427s
+[Timing] Incremental update:    0.194s
+[Timing] Total load now = 6809586.151190
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (103, 114) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.004s  (#=340)
+[Timing] State copy:           1.631s
+[Timing] Incremental update:    0.142s
+[Timing] Total load now = 6815576.823975
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 100) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=668)
+[Timing] State copy:           1.143s
+[Timing] Incremental update:    0.274s
+[Timing] Total load now = 6794700.463523
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (34, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=702)
+[Timing] State copy:           1.154s
+[Timing] Incremental update:    0.291s
+[Timing] Total load now = 6796704.398113
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (93, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=358)
+[Timing] State copy:           1.542s
+[Timing] Incremental update:    0.141s
+[Timing] Total load now = 6817461.911155
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (14, 23) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=448)
+[Timing] State copy:           1.599s
+[Timing] Incremental update:    0.195s
+[Timing] Total load now = 6811344.134980
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 147) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=418)
+[Timing] State copy:           1.278s
+[Timing] Incremental update:    0.313s
+[Timing] Total load now = 6813610.474535
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (97, 280) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=1066)
+[Timing] State copy:           2.272s
+[Timing] Incremental update:    0.463s
+[Timing] Total load now = 6779644.775844
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (3, 97) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=834)
+[Timing] State copy:           1.150s
+[Timing] Incremental update:    0.363s
+[Timing] Total load now = 6794371.603623
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 166) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=876)
+[Timing] State copy:           1.639s
+[Timing] Incremental update:    0.367s
+[Timing] Total load now = 6779769.727139
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (103, 191) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=688)
+[Timing] State copy:           1.162s
+[Timing] Incremental update:    0.298s
+[Timing] Total load now = 6796399.023775
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (17, 23) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=398)
+[Timing] State copy:           1.616s
+[Timing] Incremental update:    0.176s
+[Timing] Total load now = 6813254.397900
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (65, 114) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.004s  (#=1040)
+[Timing] State copy:           1.177s
+[Timing] Incremental update:    0.423s
+[Timing] Total load now = 6794362.739487
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 96) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=438)
+[Timing] State copy:           2.118s
+[Timing] Incremental update:    0.331s
+[Timing] Total load now = 6811237.139746
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (34, 114) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=588)
+[Timing] State copy:           1.532s
+[Timing] Incremental update:    0.253s
+[Timing] Total load now = 6805222.465968
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 280) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=404)
+[Timing] State copy:           1.184s
+[Timing] Incremental update:    0.183s
+[Timing] Total load now = 6811782.141013
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (100, 147) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=550)
+[Timing] State copy:           1.559s
+[Timing] Incremental update:    0.244s
+[Timing] Total load now = 6807822.209761
+[Timing] Edge removal:         0.002s
+
+-- Testing edge (100, 212) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=640)
+[Timing] State copy:           1.648s
+[Timing] Incremental update:    0.279s
+[Timing] Total load now = 6811183.022488
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (34, 212) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=638)
+[Timing] State copy:           1.189s
+[Timing] Incremental update:    0.302s
+[Timing] Total load now = 6812149.073256
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (103, 172) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=360)
+[Timing] State copy:           1.644s
+[Timing] Incremental update:    0.160s
+[Timing] Total load now = 6816483.237466
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (65, 212) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=938)
+[Timing] State copy:           1.428s
+[Timing] Incremental update:    0.666s
+[Timing] Total load now = 6803612.712335
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 105) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=392)
+[Timing] State copy:           2.111s
+[Timing] Incremental update:    0.154s
+[Timing] Total load now = 6818540.513705
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (34, 200) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1038)
+[Timing] State copy:           1.201s
+[Timing] Incremental update:    0.411s
+[Timing] Total load now = 6790317.312817
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (105, 164) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=566)
+[Timing] State copy:           1.645s
+[Timing] Incremental update:    0.278s
+[Timing] Total load now = 6813581.789690
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 433) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1012)
+[Timing] State copy:           1.155s
+[Timing] Incremental update:    0.386s
+[Timing] Total load now = 6774690.518296
+[Update] New best edge = (17, 433) → load 6774690.518296
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (183, 191) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1372)
+[Timing] State copy:           1.113s
+[Timing] Incremental update:    0.576s
+[Timing] Total load now = 6789256.466338
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (54, 97) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1138)
+[Timing] State copy:           1.561s
+[Timing] Incremental update:    0.841s
+[Timing] Total load now = 6791840.158438
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (14, 114) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=464)
+[Timing] State copy:           1.825s
+[Timing] Incremental update:    0.203s
+[Timing] Total load now = 6815148.413360
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 297) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=1002)
+[Timing] State copy:           1.623s
+[Timing] Incremental update:    0.419s
+[Timing] Total load now = 6776587.820591
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (34, 97) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=304)
+[Timing] State copy:           1.176s
+[Timing] Incremental update:    0.125s
+[Timing] Total load now = 6820090.131179
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 226) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=1202)
+[Timing] State copy:           1.618s
+[Timing] Incremental update:    0.471s
+[Timing] Total load now = 6768801.310088
+[Update] New best edge = (17, 226) → load 6768801.310088
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (168, 216) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=438)
+[Timing] State copy:           1.648s
+[Timing] Incremental update:    0.195s
+[Timing] Total load now = 6807847.946763
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (97, 174) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1206)
+[Timing] State copy:           1.720s
+[Timing] Incremental update:    0.900s
+[Timing] Total load now = 6767062.681038
+[Update] New best edge = (97, 174) → load 6767062.681038
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (97, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=642)
+[Timing] State copy:           1.118s
+[Timing] Incremental update:    0.283s
+[Timing] Total load now = 6797880.069479
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (114, 426) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1566)
+[Timing] State copy:           1.181s
+[Timing] Incremental update:    0.604s
+[Timing] Total load now = 6785164.245449
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (3, 13) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1294)
+[Timing] State copy:           1.582s
+[Timing] Incremental update:    0.540s
+[Timing] Total load now = 6773112.047428
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (84, 114) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=1094)
+[Timing] State copy:           1.616s
+[Timing] Incremental update:    0.436s
+[Timing] Total load now = 6793979.552295
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 397) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1012)
+[Timing] State copy:           1.159s
+[Timing] Incremental update:    0.681s
+[Timing] Total load now = 6776676.230674
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (34, 103) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=442)
+[Timing] State copy:           2.323s
+[Timing] Incremental update:    0.177s
+[Timing] Total load now = 6812334.638133
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 18) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=808)
+[Timing] State copy:           1.150s
+[Timing] Incremental update:    0.346s
+[Timing] Total load now = 6793157.732097
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (73, 96) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1230)
+[Timing] State copy:           1.616s
+[Timing] Incremental update:    0.545s
+[Timing] Total load now = 6762113.324242
+[Update] New best edge = (73, 96) → load 6762113.324242
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (7, 23) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=528)
+[Timing] State copy:           1.584s
+[Timing] Incremental update:    0.210s
+[Timing] Total load now = 6809443.814453
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (41, 97) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=654)
+[Timing] State copy:           1.185s
+[Timing] Incremental update:    0.265s
+[Timing] Total load now = 6796634.239700
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 39) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=364)
+[Timing] State copy:           1.801s
+[Timing] Incremental update:    0.271s
+[Timing] Total load now = 6819973.237880
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 129) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=1254)
+[Timing] State copy:           1.905s
+[Timing] Incremental update:    0.522s
+[Timing] Total load now = 6767930.326118
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (43, 103) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=584)
+[Timing] State copy:           1.157s
+[Timing] Incremental update:    0.254s
+[Timing] Total load now = 6800644.273337
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (97, 167) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=778)
+[Timing] State copy:           1.585s
+[Timing] Incremental update:    0.344s
+[Timing] Total load now = 6798297.810142
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (62, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=484)
+[Timing] State copy:           1.609s
+[Timing] Incremental update:    0.190s
+[Timing] Total load now = 6816005.590240
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (164, 216) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=568)
+[Timing] State copy:           1.158s
+[Timing] Incremental update:    0.251s
+[Timing] Total load now = 6814081.697324
+[Timing] Edge removal:         0.002s
+
+-- Testing edge (18, 103) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.004s
+[Timing] Affected pairs:       0.003s  (#=474)
+[Timing] State copy:           1.608s
+[Timing] Incremental update:    0.193s
+[Timing] Total load now = 6809719.021120
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (34, 46) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=474)
+[Timing] State copy:           1.215s
+[Timing] Incremental update:    0.334s
+[Timing] Total load now = 6816314.891249
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 46) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=430)
+[Timing] State copy:           2.376s
+[Timing] Incremental update:    0.176s
+[Timing] Total load now = 6812561.237863
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (2, 23) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=444)
+[Timing] State copy:           1.147s
+[Timing] Incremental update:    0.203s
+[Timing] Total load now = 6811650.760099
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (23, 105) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.004s  (#=522)
+[Timing] State copy:           1.619s
+[Timing] Incremental update:    0.184s
+[Timing] Total load now = 6808974.315681
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (96, 100) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=964)
+[Timing] State copy:           1.185s
+[Timing] Incremental update:    0.403s
+[Timing] Total load now = 6778272.947709
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (67, 124) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=462)
+[Timing] State copy:           1.156s
+[Timing] Incremental update:    0.187s
+[Timing] Total load now = 6816028.339908
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (65, 83) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=468)
+[Timing] State copy:           1.606s
+[Timing] Incremental update:    0.169s
+[Timing] Total load now = 6816812.373047
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (156, 212) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1312)
+[Timing] State copy:           1.633s
+[Timing] Incremental update:    0.889s
+[Timing] Total load now = 6796371.304516
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (39, 216) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=460)
+[Timing] State copy:           1.866s
+[Timing] Incremental update:    0.217s
+[Timing] Total load now = 6817395.412456
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (168, 280) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=240)
+[Timing] State copy:           1.642s
+[Timing] Incremental update:    0.103s
+[Timing] Total load now = 6821058.422353
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 96) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=108)
+[Timing] State copy:           1.193s
+[Timing] Incremental update:    0.063s
+[Timing] Total load now = 6824875.538852
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (2, 97) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=844)
+[Timing] State copy:           1.659s
+[Timing] Incremental update:    0.370s
+[Timing] Total load now = 6786961.675414
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (103, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=68)
+[Timing] State copy:           1.166s
+[Timing] Incremental update:    0.046s
+[Timing] Total load now = 6826040.863043
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (114, 147) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=370)
+[Timing] State copy:           1.660s
+[Timing] Incremental update:    0.161s
+[Timing] Total load now = 6817494.846377
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (73, 105) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.003s  (#=1326)
+[Timing] State copy:           1.145s
+[Timing] Incremental update:    0.573s
+[Timing] Total load now = 6787565.417985
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (34, 41) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=810)
+[Timing] State copy:           2.499s
+[Timing] Incremental update:    0.322s
+[Timing] Total load now = 6797472.799689
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (97, 200) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=1080)
+[Timing] State copy:           1.154s
+[Timing] Incremental update:    0.442s
+[Timing] Total load now = 6782382.281064
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (47, 103) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=582)
+[Timing] State copy:           1.162s
+[Timing] Incremental update:    0.228s
+[Timing] Total load now = 6799866.011607
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (103, 166) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=760)
+[Timing] State copy:           1.577s
+[Timing] Incremental update:    0.298s
+[Timing] Total load now = 6796112.781849
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (23, 453) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=702)
+[Timing] State copy:           1.665s
+[Timing] Incremental update:    0.268s
+[Timing] Total load now = 6800400.117928
+[Timing] Edge removal:         0.000s
+
+-- Testing edge (32, 97) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=958)
+[Timing] State copy:           1.147s
+[Timing] Incremental update:    0.415s
+[Timing] Total load now = 6792750.634348
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (96, 168) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.001s
+[Timing] Affected pairs:       0.002s  (#=160)
+[Timing] State copy:           1.871s
+[Timing] Incremental update:    0.127s
+[Timing] Total load now = 6823737.351088
+[Timing] Edge removal:         0.001s
+
+-- Testing edge (17, 327) --
+[Timing] Edge addition:        0.000s
+[Timing] SSSP from endpoints:  0.002s
+[Timing] Affected pairs:       0.003s  (#=1178)
+[Timing] State copy:           1.869s
+[Timing] Incremental update:    0.483s
+[Timing] Total load now = 6771770.733910
+[Timing] Edge removal:         0.001s
+[C–F] Best edge (73, 96) → new total load 6762113.324242 (search took 195.337s)
+
+Finished unfolding.
+
